@@ -1,0 +1,22 @@
+{
+  "name": "js30-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DialloNoussy/js30-array.git"
+  },
+  "author": "Diallo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DialloNoussy/js30-array/issues"
+  },
+  "homepage": "https://github.com/DialloNoussy/js30-array#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
